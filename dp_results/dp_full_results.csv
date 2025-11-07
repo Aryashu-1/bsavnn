@@ -1,0 +1,121 @@
+noise,epsilon,time_per_epoch_s,latency_ms,cpu_mem_bytes,gpu_mem_bytes,acc,precision,recall,f1,model
+0.0,inf,0.04144374497700483,0.18497399985790253,8192,0,0.8709677419354839,0.7585848074921956,0.8709677419354839,0.810901001112347,"GradSampleModule(DeepNN(
+  (model): Sequential(
+    (0): Linear(in_features=15, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=48, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=48, out_features=32, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=32, out_features=16, bias=True)
+    (7): ReLU()
+    (8): Linear(in_features=16, out_features=8, bias=True)
+    (9): ReLU()
+    (10): Linear(in_features=8, out_features=2, bias=True)
+  )
+))"
+0.0,inf,0.04073202001163736,0.20411000004969537,0,0,0.8709677419354839,0.7585848074921956,0.8709677419354839,0.810901001112347,"GradSampleModule(DeepNN(
+  (model): Sequential(
+    (0): Linear(in_features=15, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=48, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=48, out_features=32, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=32, out_features=16, bias=True)
+    (7): ReLU()
+    (8): Linear(in_features=16, out_features=8, bias=True)
+    (9): ReLU()
+    (10): Linear(in_features=8, out_features=2, bias=True)
+  )
+))"
+0.5,66.25190396266117,0.03310346502112225,0.17725800047628582,0,0,0.8709677419354839,0.7585848074921956,0.8709677419354839,0.810901001112347,"GradSampleModule(DeepNN(
+  (model): Sequential(
+    (0): Linear(in_features=15, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=48, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=48, out_features=32, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=32, out_features=16, bias=True)
+    (7): ReLU()
+    (8): Linear(in_features=16, out_features=8, bias=True)
+    (9): ReLU()
+    (10): Linear(in_features=8, out_features=2, bias=True)
+  )
+))"
+0.5,66.25190396266117,0.039449754997622224,0.22668199962936342,0,0,0.8709677419354839,0.7585848074921956,0.8709677419354839,0.810901001112347,"GradSampleModule(DeepNN(
+  (model): Sequential(
+    (0): Linear(in_features=15, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=48, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=48, out_features=32, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=32, out_features=16, bias=True)
+    (7): ReLU()
+    (8): Linear(in_features=16, out_features=8, bias=True)
+    (9): ReLU()
+    (10): Linear(in_features=8, out_features=2, bias=True)
+  )
+))"
+0.8,27.441363937049783,0.03325898997718468,0.20376249914988875,0,0,0.8709677419354839,0.7585848074921956,0.8709677419354839,0.810901001112347,"GradSampleModule(DeepNN(
+  (model): Sequential(
+    (0): Linear(in_features=15, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=48, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=48, out_features=32, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=32, out_features=16, bias=True)
+    (7): ReLU()
+    (8): Linear(in_features=16, out_features=8, bias=True)
+    (9): ReLU()
+    (10): Linear(in_features=8, out_features=2, bias=True)
+  )
+))"
+0.8,27.441363937049783,0.02927448501577601,0.16963350004516542,0,0,0.8709677419354839,0.7585848074921956,0.8709677419354839,0.810901001112347,"GradSampleModule(DeepNN(
+  (model): Sequential(
+    (0): Linear(in_features=15, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=48, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=48, out_features=32, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=32, out_features=16, bias=True)
+    (7): ReLU()
+    (8): Linear(in_features=16, out_features=8, bias=True)
+    (9): ReLU()
+    (10): Linear(in_features=8, out_features=2, bias=True)
+  )
+))"
+1.0,18.767495942343984,0.029227960016578437,0.2296394994482398,0,0,0.8709677419354839,0.7585848074921956,0.8709677419354839,0.810901001112347,"GradSampleModule(DeepNN(
+  (model): Sequential(
+    (0): Linear(in_features=15, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=48, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=48, out_features=32, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=32, out_features=16, bias=True)
+    (7): ReLU()
+    (8): Linear(in_features=16, out_features=8, bias=True)
+    (9): ReLU()
+    (10): Linear(in_features=8, out_features=2, bias=True)
+  )
+))"
+1.0,18.767495942343984,0.034121069987304506,0.2039000007789582,0,0,0.8709677419354839,0.7585848074921956,0.8709677419354839,0.810901001112347,"GradSampleModule(DeepNN(
+  (model): Sequential(
+    (0): Linear(in_features=15, out_features=64, bias=True)
+    (1): ReLU()
+    (2): Linear(in_features=64, out_features=48, bias=True)
+    (3): ReLU()
+    (4): Linear(in_features=48, out_features=32, bias=True)
+    (5): ReLU()
+    (6): Linear(in_features=32, out_features=16, bias=True)
+    (7): ReLU()
+    (8): Linear(in_features=16, out_features=8, bias=True)
+    (9): ReLU()
+    (10): Linear(in_features=8, out_features=2, bias=True)
+  )
+))"
